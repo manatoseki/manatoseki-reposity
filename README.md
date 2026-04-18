@@ -1,2 +1,2 @@
-# manatoseki-reposity
+# manatoseki-repository
 関真成澄のリポジトリです。
